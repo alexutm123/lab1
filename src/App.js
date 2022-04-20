@@ -70,9 +70,10 @@ function App() {
 <input type="submit" value="Отправить" />
 
 <form>
-      <label>тправь свое имя:
+      <label>Отправь свое имя:
         <input type="text" />
       </label>
+
     </form>
 -----------------------------
 
@@ -110,9 +111,8 @@ function App() {
 
         </a>
 
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
-  }
+    
+  
 
  
 
